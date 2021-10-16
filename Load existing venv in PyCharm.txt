@@ -1,0 +1,17 @@
+To check where venv path:
+
+Open cmd:
+1) activate venv
+2) where python
+
+
+Copy path of python.exe
+
+
+1) In PyCharm New Project
+2) Give Name and path of Project
+3) Select "Previously Configured Interpreter"
+4) Select 3 dots option
+5) In Virtualenv Environment -> Interpreter select 3 dots
+6) Select the path of python copied earlier
+7) Create Project
